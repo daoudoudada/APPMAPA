@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29784468479",
+    "project_id": "daoudapi",
+    "storage_bucket": "daoudapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29784468479:android:0c559243b1a1e48f2195ca",
+        "android_client_info": {
+          "package_name": "com.example.mapa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhwDuljySGIMxwEKIxJmJ43kDeXsam0J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
